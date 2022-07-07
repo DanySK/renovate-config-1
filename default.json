@@ -1,6 +1,10 @@
 {
   "packageRules": [
     {
+      "matchUpdateTypes": ["patch", "pin", "digest"],
+      "automerge": true
+    },
+    {
        "matchPackagePrefixes": [
           "org.jetbrains.kotlin"
        ],
