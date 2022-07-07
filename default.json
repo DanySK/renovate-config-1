@@ -1,0 +1,10 @@
+{
+  "packageRules": [
+    {
+       "matchPackagePrefixes": [
+          "org.jetbrains.kotlin"
+       ],
+       "allowedVersions": "<1.7"
+    }
+  ]
+}
