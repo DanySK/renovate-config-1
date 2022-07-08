@@ -1,4 +1,7 @@
 {
+  "schedule": [
+    "before 3am on Saturyday"
+  ],
   "packageRules": [
     {
       "matchUpdateTypes": ["patch", "pin", "digest"],
