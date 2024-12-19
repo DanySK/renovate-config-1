@@ -6,12 +6,6 @@
     {
       "matchUpdateTypes": ["patch", "pin", "digest"],
       "automerge": true
-    },
-    {
-       "matchPackagePrefixes": [
-          "org.jetbrains.kotlin"
-       ],
-       "allowedVersions": "<1.7"
     }
   ]
 }
